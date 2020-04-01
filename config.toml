@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://sclark13.github.io/hugo-test/"
 languageCode = "en-us"
 title = "Sam Clark"
 theme = "ananke"
+publishDir = "docs"
